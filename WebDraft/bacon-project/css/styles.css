@@ -1,0 +1,23 @@
+body {
+  background-color: wheat;
+}
+h1{
+    color: red;
+}
+/*
+img{
+    width: 250px;
+    height: 200px;
+    background-color: red;
+}
+*/
+.bacon{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+.golf{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+}
