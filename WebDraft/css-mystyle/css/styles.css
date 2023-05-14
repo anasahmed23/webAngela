@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+}
+
+.top {
+  background-color: #b6eafa;
+  margin: 0px;
+  width: 200px;
+  height: 200px;
+  padding-right: 10px;
+  border: solid;
+  position: relative;
+  left: 20px;
+}
+.middle {
+  margin: 0px;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.bottom {
+  margin: 0px;
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+.com {
+  text-decoration: underline;
+}

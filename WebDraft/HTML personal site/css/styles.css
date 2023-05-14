@@ -1,0 +1,32 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+}
+.top-container {
+  background-color: #d4fafc;
+  position: relative;
+  padding-top: 100px;
+}
+.body-text {
+  color: #66bfbf;
+  font-family: "Merriweather", serif;
+  width: 20%;
+  margin: 0 auto;
+  position: relative;
+  top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 650px;
+  top: 70px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 700px;
+}
+.middle-container {
+  font-family: "Merriweather", serif;
+}
